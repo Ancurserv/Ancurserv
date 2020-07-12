@@ -1,4 +1,12 @@
 ### Hi there 👋
+Hello, Welcome to the Ancurserv Github owned by alias: MrBitmap.
+
+- 🔭 I’m currently working on: **Thystream**
+
+- 👯 I’m looking to collaborate on: Nearly any project that may involve: Java, Python, Unity(C#) and several others.
+
+- 📫 How to reach me: [Discord](https://discord.gg/pbfkM35), [Twitter](https://twitter.com/ancurserv?s=09)
+
 
 <!--
 **Ancurserv/Ancurserv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
