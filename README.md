@@ -7,7 +7,9 @@ Hello, Welcome to the Ancurserv Github owned by alias: MrBitmap.
 
 - 📫 How to reach me: [Discord](https://discord.gg/pbfkM35), [Twitter](https://twitter.com/ancurserv?s=09)
 
+**Note:** Ancurserv is **no way** in relations to @mrbitmap on [Twitter](https://twitter.com/mrbitmap?s=09)
 
+# (Website coming soon)
 <!--
 **Ancurserv/Ancurserv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
