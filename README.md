@@ -7,7 +7,7 @@ Hello, Welcome to the Ancurserv Github owned by alias: MrBitmap.
 
 - 👯 I’m looking to collaborate on: Nearly any project that may involve: Java, Python, Unity(C#) and several others.
 
-- 📫 How to reach me: [Discord](https://discord.gg/pbfkM35), [Twitter](https://twitter.com/ancurserv?s=09)
+- 📫 How to reach me: [Discord](https://discord.gg/a2Z5uqa), [Twitter](https://twitter.com/ancurserv?s=09)
 
 **Note:** Ancurserv is **no way** in relations to @mrbitmap on [Twitter](https://twitter.com/mrbitmap?s=09)
 
