@@ -12,6 +12,8 @@ Hello, Welcome to the Ancurserv Github owned by alias: MrBitmap.
 **Note:** Ancurserv is **no way** in relations to @mrbitmap on [Twitter](https://twitter.com/mrbitmap?s=09)
 
 # Temp Website: Ancurserv.github.io
+
+[![Ancurserv stats](https://github-readme-stats.vercel.app/api?username=Ancurserv&theme=merko&show_icons=true)](https://github.com/Ancurserv)
 <!--
 **Ancurserv/Ancurserv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
