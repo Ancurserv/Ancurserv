@@ -3,7 +3,7 @@
 Hello, Welcome to the Ancurserv Github owned by alias: MrBitmap.
 
 
-- 🔭 I’m currently working on: **<nothing>**
+- 🔭 I’m currently working on: **nothing**
 
 - 👯 I’m looking to collaborate on: Nearly any project that may involve: Java, Python, Unity(C#) and several others.
 
